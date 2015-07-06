@@ -1,12 +1,17 @@
 # qt_qradiobutton_qdatawidgetmapper_example
 
+This is a sample solution to map radio buttons to sql databases in the Qt framework. Originally presented at 
+
 http://stackoverflow.com/questions/31021852/connecting-radio-buttons-to-qsqltablemodel-via-qdatawidgetmapper-in-qt
+
+based on 
+
+http://www.qtcentre.org/threads/21860-QRadioButton-and-QDataWidgetMapper?p=123316#post123316
+
 
 ## Connecting radio buttons to QSqlTableModel via QDataWidgetMapper in Qt
 
-### Original question 
-
-This is a sample solution to map radio buttons to sql databases in the Qt framework. 
+### Original question on stackoverflow
 
 
 I would like to map a radio buttons to a QDataWidgetMapper as per [this forum thread][1]. I am not sure though how to hook up the delegate mentioned. Could anyone explain this? 
